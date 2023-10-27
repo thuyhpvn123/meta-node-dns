@@ -1,7 +1,7 @@
 {
-    "meta-node-storage": "104.199.161.14:7777:7777",
+    "meta-node-storage": "104.199.161.14:7777",
 
-    "meta-node-branch-1-validator": "34.80.15.254:7777:7777",
+    "meta-node-branch-1-validator": "34.80.15.254:7777",
     "meta-node-branch-1-node-1-1": "35.221.244.142:7777",
     "meta-node-branch-1-node-2-1": "34.81.213.177:7777",
     "meta-node-branch-1-node-2-2": "104.199.245.44:7777",
