@@ -4,5 +4,6 @@
     "verify_miner": "127.0.0.1:3021",  
     "execute_miner": "127.0.0.1:3031",  
     "storage": "127.0.0.1:3051",
+    "storage_package": "127.0.0.1:3151",
     "state_channel_master": "127.0.0.1:3071"
 }
